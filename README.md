@@ -1,2 +1,4 @@
 # Heroku
-None
+Django framework project 
+SQLite Database
+CSS 
